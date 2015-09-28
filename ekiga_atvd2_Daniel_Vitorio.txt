@@ -1,0 +1,46 @@
+Como o sistema é capaz de permitir pessoas aprendê-lo, realizar suas tarefas de forma eficiente e acessar as informações que precisam ?
+
+-O sistema deve ser capaz de tornar suas ferramentas mais intuitivas e diretas, apesar de haver uma janela inicial para ajudar usuarios inexperientes a utilizar o software, uma linguagem mais ovjetiva e que abranja também usuarios sem conhecimento técnicos.
+
+Como o sistema garante que, uma vez aprendido com usá-lo, seja mantido um alto índice de produtividade das tarefas?
+
+-Permitir que o usuário possa fazer uso por meio de atalhos, deixar as funcionalidades do Ekiga mais aparentes e acessiveis, treinos de uso.
+
+Como o sistema protege o usuário de possíveis erros? Quais são os erros toleráveis e quais são os erros passíveis de serem desfeitos?
+
+-Tempo mínimo antes de efetuar uma chamada, ajudar e melhorar o modo de fazer a configuração para uso do software, uma chamada de teste que funcione, diagnósticos eficientes do erro e como soluciona-lo.
+
+Quais são as ferramentas oferecidas pelo sistema que provêm uma série de funcionalidades que permite os usuários realizar suas tarefas da forma que desejam?
+
+-Um assistente bom, interface de fácil usabilidade, descrição das ferramentas.
+
+Como o sistema provê a possibilidade do usuário aprender como utilizar o sistema apenas explorando sua interface?
+
+-Botões com símbolos mais sugestivos, menus e botões com as ferramentas que o Ekiga pode oferecer.
+
+Quais tipos de suporte têm na interface para auxiliar usuários relembrar como realizar suas tarefas?
+
+-Icones padronizados e de facil acesso.
+
+Metas de experiência do usuário
+
+- Para que se tenha uma experiência agradavél com o software, é necessario que o sistema realize no minimo as tarefas básicas a ele submetidas de maneira direta e fácil. Tal ação é importante pois se o usuário não consegue nem realizar o básico do sistema, não há motivo para que este permaneça a tentar utiliza-lo já que este tipo de sistema têm outros softwares para substituir suas funcionalidades.
+
+Metas de experiência do usuário
+
+*
+-Verificar outros softwares do mesmo segmento, pois assim é possível verificar novas ferramentas que surgem, além de que é possivel tornar a interface seja adaptativa e completa em relação aos outros softwares afim de que um usuário de outro software possa migrar sem sofrer dificuldadem em utilizar sua ferramenta.
+-Verificar qual provedor SIP e H323 as pessoas mais utilizam, porque assim o Ekiga pode sugerir novos provedores para seus usuários e até mesmo unir-se a tais provedores, afim de obter maior renome.
+-Quantas tentativas foram necessárias para a instalação e configuração do software até sua primeira chamada, pois com isso é possivel saber se os usuários estão tendo ou não dificuldades para utilizar o software.
+-Quão dificil é para o usuário se adaptar com a interface, assim é possível melhorar os aspectos que geram mais problemas para o uso do usuário. 
+
+*
+- Há diversas fontes de informação, tais como, documentação, fórum, usuárioss, etc; 
+- Através das fontes disponíveis podemos direcionar cada uma para as requisições necessárias.  No caso das metas anteriores citadas podemos por exemplo na primeira e segunda opção realizar pesquisas através da internet sobre os softwares do mesmo segmento, na terceira e quarta, podemos utilizar tanto as documentações existentes e realizar perguntas para os desnvolvedores e usuários do SL.
+
+-Primeiramente verificaremos através de perguntas o nivel de conhecimento tecnico do usuário, analisaremos se o sexo e idade do usuário influencia na percepção do sistema. Verificaremos se o software agrada aparentemente e funcionalmente o usuário, o que o entrevistado sugere como maneira de melhora para o Ekiga tornando-o mais comunicativo e eficiente.
+-Gostariamos também de analisar o comportamento do usuário mediante a utilização do software para compreender se sua visão e opnião sobre o software é modificada após o uso. E talvez futuramente com as análises efetuadar reformular este roteiro de acordo com necessidades e problemas apresentados.
+
+-Após uma breve reflexão, constatamos que é possível obter tais informações mediante a formulários na internet, entrar em contato com usuários, pesquisas tanto no site do software quando em fóruns, no curso com os colegas, etc.
+
+Este trabalho foi realizado por Daniel Costa Valerio e Vitorio Miguel Prieto Cilia

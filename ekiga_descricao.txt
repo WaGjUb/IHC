@@ -1,0 +1,13 @@
+Software escolhido: Ekiga
+
+Identificação do tema: Sistema de intercomunicação, sendo um software que reúne video conferência, mensagens instantâneas e ligações telefônicas; através da internet.
+
+Motivação e problemática: Observamos o software escolhido como algo interessante e que pode ser muito útil como uma alternativa para comunicações. Porém o software pode ser alterado para ter sua usabilidade melhorada para que qualquer usuário possa, sem frustração, realizar seus interesses com o software.
+
+Identificação e caracterização dos possíveis usuários: Os usuários deste software são qualquer pessoa ou grupo de pessoas que desejam realizar uma comunicação via audio, texto ou video; além da transferência de arquivos. Não havendo restrição de idade, sexo, ou nacionalidade. Os requisitos são apenas a conexão com alguma rede, o software Ekiga que é suportado originalmente pelos sistemas operacionais Windows e Linux, mas têm seu código aberto e pode ser adaptado e compilado para qualquer outro sistema operacional, e uma conta ISP para realização do login.
+
+Cenário hipotético de uso: Sem este tipo de sistema, não haveria um meio de comunicação que una todas as funcionalidades já pré-existentes em uma única aplicação. As pessoas precisariam encontrar-se pessoalmente ou útilizar serviços de email, telefonia e video conferência de maneira isolada. Já com este sistema, as pessoas encontram a facilidade de ter todas as ferramentas de maneira unida, assim obtendo uma melhor experiência pondendo optar pela ferramenta de comunicação que melhor se adapta a sua necessidade.
+
+Análise de Viabilidade do uso do SL como estudo do caso: O software Ekiga nos parece ser um software adequado para ser utilizado no estudo, pois apresenta diversas ferramentas e tarefas. Sua documentação e acesso de comunicação com desenvolvedores e a comunidade são explicitos e de fácil acesso. Sua melhora irá contribuir para a comunidade do software livre e para os usuários do Ekiga, podendo atrais mais usuários para o software.
+
+Este documento foi escrito por Daniel Costa Valerio e Vitório Miguel Prieto Cilia.
