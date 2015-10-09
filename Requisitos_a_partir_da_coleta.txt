@@ -1,0 +1,21 @@
+Perfil do usuário:
+	Pelos dados que coletamos, verificamos que a maioria dos usuários de serviços VoIP utilizam o software para entreterimento e com uma frequência de aproximadamente uma vez por semana. Esses usuários são jovens e em sua maioria estudantes.
+	Existem também, pessoas que utilizam o serviço em conjunto com jogos, para relacionar com a familia e também para trabalho.
+
+Persona 1:
+
+Nome: Cazé do Zé
+Idade: 18
+Formação: Ensino Médio
+Status: Primário
+Objetivos: Se divertir e aproveitar a vida
+Relacionamentos: Cazé gosta muito de conversar com seus amigos
+Expectativas: Funcionamento pleno do software para que possa jogar sem prejuizo
+
+ Cazé do Zé é um estudante do ensino médio, que nas horas vagas gosta de jogar online com seus amigos, para comunicar com esses amigos, Cazé utiliza serviços VoIP's. Quando não está afim de jogar ele apenas utiliza o serviço para conversar e fazer video conferencias com os seus colegas de sala.
+
+
+Mariana Limões Azuis - "Se não há familia, não há vida"
+
+	Mariana, 25, estuda ciência da computação numa cidade longe da família. Apesar disso, ela procura estar em contato o máximo possivel com seu pai, mãe, irmãos e primos, para tanto, ela faz ligações curtas mas diariamente por um software de VoIP e Video-Chamadas instalado em seu computador e no de seus familiares que é bem fácil de utilizar. Ela tomou esta decisão porque, segundo ela, um software fácil possibilita à qualquer um , mesmo sem conhecimento, se comunicar com aqueles que julgam importantes é uma prioridade para ela.
+	
