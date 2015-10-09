@@ -1,0 +1,14 @@
+Analise dos dados extraidos do formulario que se encontra no link
+http://goo.gl/forms/1w45rD8AJZ
+
+Dados brutos no link
+https://goo.gl/VrQag1
+
+Pré Análise em
+https://goo.gl/jgeBg7
+
+Análise:
+	Podemos perceber que a análise não teve o impacto desejado, visto que não foi possivel obter dados sem um vício desconsideravel. Isso ocorreu por conta do quão regional foi a divulgação da mesma
+	Ainda sim, podemos constatar que a média das idades, constatado no dia 7 de outubro, era de 20 anos de idade; Com uma maioridade de participantes Homens; Com maior quantidade de pessoas cuja ocupação tem alguma ligação com estudos e faculdade; Metade das pessoas não utilizam recursos VoIP; As pessoas que utilizam, em sua maioria, utilizam Skype, e a finalidadse varia geralmente entre lazer e família, durando entre 30min e 6Hs por ligação, com uma frequencia de ligações de menos de uma vez por semana.E, em sua totalidade, desconhecem os protocolos SIP e H323, nescessarios para a utilização do software livre Ekiga.
+	Uma persona que estaria neste modelo teria 20 anos, estudante de Ciência da Computação que utiliza o Skype para fazer ligações afim de falar com a família e amigos. Ela faz menos de uma ligação por semana, porêm, essas ligações teriam em média, 2hs de duração.
+
