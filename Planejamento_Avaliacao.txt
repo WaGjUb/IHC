@@ -1,0 +1,22 @@
+Trabalho realizado por Daniel Costa Valerio e Vitório Miguel Prito Cilia
+
+Avaliação analítica: 
+Determinar: examinar a praticidade, coêrencia, homogeneidade, linguajar e outros principais problemas da interface. Para assim entendermos melhor qual é o problema que o software apresenta e como melhora-lo.
+Gostariamos também de entender o que o usuário necessita, e se a interface e o software cumpre sua função suprindo tais necessidades.
+ 
+Explorar: Aprofundando um pouco nas questões levantadas percebemos que há varios entraves na maneira na qual o software abordou determinados temas, por exemplo: no linguajar utilizado, que não abrange a vocabulario maioria dos usuários de sistemas VoIP. Talvez esse seja um problema para a comunicação do sistema com o usuário que deve ser analisado. Problemas na interface e nas funcionalidades do Ekiga, ficam bem expressas quando nos deparamos como software após de utilizar um serviço VoIP mais robusto, o menu, seus icones, suas funções são de um uso complicado inicialmente, portanto cremos que as heuristicas podem tornar o software mais acessivel e confortavel aos usuários.
+ Em relação aos usuários, percebemos, através da analise feita anteriormente, que sua grande maioria quer apenas fazer ligações, utilizar as mensagens que o software permite para fazer a comunicação. Porém sabemos também que pessoas utilizam o serviço para realizar ligações para telefones, essa é mais uma questão que deve ser analisada e ter dados coletados se quisermos definir novas metas e de fato tornar este software melhor. Devemos entretanto garantir que essas funcionalidades basicas estejam com acesso facilitado e otimizados para evitar frustrações por parte do usuário.
+
+Escolher:
+Decidimos que a avaliação heurística é realmente significativa para o nosso objetivo e por isso iremos utilizar as dez heurísticas de Nielsen para nos auxiliar na análise e classificação do software. Assim podemos confrontar os problemas de forma simples e analisar se os requisitos básicos foram observados quando houve o desenvolvimento do software.
+ Como uma forma de avaliação por observação, cremos que o teste de usabilidade e até o estudo de campo são ótimas ferramentas para o nosso caso, através de protótipos, podemos também verificar como alterações que fossem realizadas no software poderiam influenciar no desempenho do usuário na realização de suas tarefas.
+
+Idetificar:
+ As Heurísticas de Nielsen é bem simples de ser implementada, com auxilio de outro grupo, iremos realizar a implementação do método para cumprimento dos objetivos citados anteriormente.
+ Da mesma maneira realizaremos o teste de usabilidade com uma amostra de pessoas que se enquadram nos usuários do software, necessitaremos de um laboratório para realizar o teste e de equipamentos. Com tarefas como: realizar o cadastro, uma ligação, enviar um arquivo, etc. Faremos a analise.
+
+Decidir:
+ Utilizaremos o termo que o professor nos disponibilizou para que possamos, diretamente com o usuário, realizar analises e coleta de dados com os usuários diretamente
+
+Avaliar:
+Após toda a coleta de dados iremos fazer a análise devida.
