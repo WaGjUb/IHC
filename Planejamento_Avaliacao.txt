@@ -19,4 +19,4 @@ Decidir:
  Utilizaremos o termo que o professor nos disponibilizou para que possamos, diretamente com o usuário, realizar analises e coleta de dados com os usuários diretamente
 
 Avaliar:
-Após toda a coleta de dados iremos fazer a análise devida.
+Após toda a coleta de dados iremos fazer a análise devida utilizando como auxílio as heuristicas, o estudo de campo e teste de usabilidade..

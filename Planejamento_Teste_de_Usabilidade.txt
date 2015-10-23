@@ -1,0 +1,6 @@
+Tarefas:
+1ª - Criar um cadastro de conta SIP ou H323
+2ª - Adicionar um amigo
+3ª - Enviar um arquivo/mensagem 
+4ª - Fazer uma ligação
+5ª - Alterar o apelido e a foto de perfil
