@@ -1,0 +1,31 @@
+tela inicial (teclado telefonico)
+
+1. feedback 
+porem alguns dados apresentados na tela, não são especificados do que são e para que servem. exemplo status. 
+Alem de avisar nossa situação no software ele as vezes não exibe nossa situação, gerando a dúvida se estou ou não conectado.
+
+2. Linguagem do usuário
+A linguagem empregada é uma linguagem para quem tem um conhecimento de rede e protocolos
+
+3. Saidas demarcadas
+O software não é de facil manuseio, algumas tarefas quando em operação, são dificeis de entender o que está acontecendo e como abortar ou voltas a operação.
+
+
+4. Consistência
+ A consistência é mantida nas interfaces do software, tanto referente ao tipo de linguagem submetida quanto aos ícones.
+
+5. Prevenção de erros
+Este tópico não é cumprido, os error são facilmente cometidos pela falta de comunicação da interface, não sabemos o que acontece quando tomamos determinada ação ou há uma falta de explicação pela simplicidade da interface. Há uma economia muito grande de sinalizações e explicações sobre o que é determinada coisa e como  deve ser utilizada.
+
+6. Reconhecimento
+Creio que está heuristica é seguida, pois a interface é basicamente comunicada por meio de icones que podem ser posteriormente lembrado, ja que têm alguma relação com as ações.
+
+7. Flexibilidade e eficiência de uso
+Atalhos são empregados, para usuários experientes pode ser bem útil, os atalhos abrangem quase todas as funcionalidades do software.
+
+8. Estetica e design minimalista
+ Realmente o design é bem simples, porém é simples de mais ao ponto de faltar informação.
+
+9. Boas mensagens de erro
+As mensagens não são tão claras e realmente intimidam o usuário com links para manuais e para que ele mesmo possa identificar o erro
+
