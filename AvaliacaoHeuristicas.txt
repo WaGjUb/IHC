@@ -27,5 +27,7 @@ Atalhos são empregados, para usuários experientes pode ser bem útil, os atalh
  Realmente o design é bem simples, porém é simples de mais ao ponto de faltar informação.
 
 9. Boas mensagens de erro
-As mensagens não são tão claras e realmente intimidam o usuário com links para manuais e para que ele mesmo possa identificar o erro
+As mensagens não são tão claras e realmente intimidam o usuário com links para manuais e para que o próprio usuário possa identificar o erro
 
+10. Ajuda e documentação
+ O software, principalmente no quesito de configuração é bem complicado e não intuitivo para a maioria dos usuários. Portanto há uma ajuda que não é tão eficiente assim para ajudar apenas na configuração da conta. Porém não há uma verificação para que você saiba se funcionou ou não.
