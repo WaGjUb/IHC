@@ -13,7 +13,7 @@ Tarefa 1 - Criar um cadastro de conta SIP ou H323
 
 Tarefa 2 - Adicionar um amigo 
 	    Para adicionar um amigo, os menus se mostraram bem diretos
-	e desambiguos para esta acção.
+	e desambiguos para esta ação.
 
 Tarefa 3 - Enviar uma mensagem 
 	    Dado a ordem das atividades e o funcionamento do software,
