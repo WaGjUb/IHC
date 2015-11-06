@@ -1,0 +1,22 @@
+Tarefa 1:
+        * O usuário não sabe o que é uma conta SIP.
+        * Desconsiderou o menu de ajuda.
+        * Decidiu utilizar o assistente do ekiga.
+        * A troca de contexto entre o navegador e o deixou confuso.
+        * Não soube responder o tipo de conexão.
+        * Não soube escolher os dispositivos de reprodução.
+
+Tarefa 2:
+        * Encontrou a janela rapidamente.
+
+Tarefa 3:
+        * Confusão para encontrar a tela do chat.
+        * A barra de status não foi percebida, não havendo feedback do sistema.
+
+Tarefa 4:
+        * Novamente, a quantidade de janelas foi muito grande
+                gerando confusão no fluxo da atividade.
+        * O erro na tarefa anterior auxiliou no desenvolvimento desta tarefa.
+
+Tarefa 5:
+        * Não conseguiu realizar.

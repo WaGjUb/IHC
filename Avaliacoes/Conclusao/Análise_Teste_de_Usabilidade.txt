@@ -1,0 +1,39 @@
+Análise das Tarefas executadas no teste de usabilidade:
+
+Tarefa 1 - Criar um cadastro de conta SIP ou H323 
+	    No geral, os usuários não sabem o que SIP significa, assim,
+	em alguns casos, o usuário segue a leitura do assistente de
+	configuração , em outros, ele pesquisa na internet e até não
+	completa a tarefa.
+	    O processo de criação de conta acaba por engoblar o assis-
+	tente de inicialização por que este Wiazard é mais fácil e 
+	rápido de ser encontrado do que a seção do manual que cobre
+	esta atividade, trazendo outras dificuldades para uma
+	tarefa que por si só já não é simples de ser completa.
+
+Tarefa 2 - Adicionar um amigo 
+	    Para adicionar um amigo, os menus se mostraram bem diretos
+	e desambiguos para esta ação.
+
+Tarefa 3 - Enviar uma mensagem 
+	    Dado a ordem das atividades e o funcionamento do software,
+	todos os usuários acabaram por fazem uma ligação antes de 
+	conseguirem enviar uma mensagem, isso por que ao clicar 
+	duas vezes sobre o nome do contato, o Ekiga inicia uma 
+	ligação, e não uma janela de conversas ou um menu de açoes.
+	entretanto, quando isso ocorria, logo os usuarios passavam
+	a procurar por algum menu de contexto e por fim, se deparavam 
+	com a opção de enviar mensagem.
+
+Tarefa 4 - Fazer uma ligação 
+	Este passo sempre foi feito por engano.
+	
+Tarefa 5 - Alterar o apelido e a foto de perfil
+	    Mais uma vez os menus de contexto funcionaram de forma 
+	satisfatoria, os testadores conseguiram chegar nas 
+	preferencias.
+	    Já na tarefa de trocarem o fundo do perfil não foi trivial,
+	os menus não foram claros o suficiente para indicar onde é que 
+	se deveria alterar nem o que alterar. Alguns participantes não 
+	conseguiram executar este passo.
+	

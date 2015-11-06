@@ -1,0 +1,25 @@
+Tarefa 1:
+        * O usuaŕio seguiu o assistente para criar a conta SIP.
+        * As configurações não funcionaram.
+        * Etá verificando o motivo.
+        * O sistema não está ajudando a resolver o erro.
+        * Passou a ler o manual procurando o motivo do não-funcionamento.
+        * Demorou para conseguir chegar na sessão relativa a atividade.
+        * Falhou em consertar.
+
+Tarefa 2:
+        * Com poucos cliques a tarefa foi concluida.
+
+Tarefa 3:
+        * Tambêm foi efetuada sem problema.
+
+Tarefa 4:
+        * Fez uma ligação acidentalmente
+        * Acessou o menu de contexto e concluiu a tarefa.
+
+Tarefa 5:
+        * O usuário vertificou atentamente as configuraçoes.
+        * Utilizando o Scroll, mudou as configurações de audio sem perceber.
+        * O programa não anunciou tais mudanças.
+        * Concluiu a referida tarefa.
+        * Esqueceu-se de redefinir as mudanças acidentais.
